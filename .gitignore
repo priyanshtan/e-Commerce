@@ -1,0 +1,7 @@
+# Ignore environment files in backend only
+/backend/.env
+
+# Node modules in all folders
+/backend/node_modules/
+/frontend/node_modules/
+/admin/node_modules/
